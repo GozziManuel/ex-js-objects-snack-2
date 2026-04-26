@@ -45,7 +45,7 @@ age: 29,
 const secondBurger = structuredClone(hamburger);
 const thirdBurger = structuredClone(hamburger);
 
-// 3 obj
+// 9 obj
 
 ---
 
